@@ -26,7 +26,7 @@ const bradleyContent=`<h2>M2 Bradley</h2><p><b>רכב לחימה משוריין 
 <h3>כניסה לשירות</h3><p><b>1981</b> — משפחת Bradley החלה להיכנס לשירות בצבא ארצות הברית בתחילת שנות ה־80.</p>
 <h3>מקורות</h3><p><a href="https://cpeground.army.mil/Combat-Platforms/Project-Manager-Mounted-Armored-Vehicles/" target="_blank" rel="noopener">U.S. Army — Bradley Fighting Vehicle System</a><br><a href="https://www.army.mil/article/269660/army_awards_bradley_a4_production_contract" target="_blank" rel="noopener">U.S. Army — Bradley A4 production</a><br><a href="https://www.army.mil/article/291021/project_manager_maneuver_ammunition_systems_works_to_increase_lethality_of_existing_weapon_systems" target="_blank" rel="noopener">U.S. Army — M2A4 Bradley, 2026</a></p>`;
 
-const mq9Content=`<h2>MQ-9 Reaper</h2><p><b>כלי טיס מאויש מרחוק רב־משימתי של חיל האוויר האמריקאי</b></p>
+const mq9Content=`<h2>MQ-9 Reaper</h2><p><b>כלי טיס מאויש מרחוק רב־משימתי של חיל האוויר האמריקאי</b></p><figure class="system-photo"><img src="/images/mq-9-reaper.jpg" alt="MQ-9 Reaper בטיסה" loading="lazy"><figcaption>MQ-9 Reaper — צילום: U.S. Air Force. Public Domain.</figcaption></figure>
 <div class="tabs"><span>סקירה</span><span>היסטוריה</span><span>טכנולוגיה</span><span>נתונים</span><span>שירות</span><span>מקורות</span></div>
 <h3>סקירה</h3><p>MQ-9 Reaper הוא כלי טיס מאויש מרחוק, בעל שהייה ממושכת ובגובה בינוני, המופעל על ידי חיל האוויר האמריקאי. הוא משמש בעיקר לאיסוף מודיעין, מעקב וסיור, וכן לתמיכה במשימות תקיפה ותיאום.</p>
 <h3>היסטוריה</h3><p>ה־MQ-9 פותח על ידי General Atomics כמערכת גדולה וחזקה יותר ממשפחת MQ-1 Predator. חיל האוויר האמריקאי הכריז על כשירות מבצעית ראשונית של המערכת באוקטובר 2007.</p>
