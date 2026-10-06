@@ -36,7 +36,7 @@ const mq9Content=`<h2>MQ-9 Reaper</h2><p><b>כלי טיס מאויש מרחוק 
 <h3>כניסה לשירות</h3><p><b>2007</b> — ה־MQ-9 Reaper הגיע לכשירות מבצעית ראשונית באוקטובר 2007.</p>
 <h3>מקורות</h3><p><a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104470/mq-9-reaper/" target="_blank" rel="noopener">U.S. Air Force — MQ-9 Reaper Fact Sheet</a><br><a href="https://www.afsoc.af.mil/News/Article-Display/Article/4498211/gbu-39b-enters-service-with-mq-9-reaper-at-cannon/" target="_blank" rel="noopener">AFSOC — MQ-9 Reaper, 2026</a></p>`;
 
-const e3Content=`<h2>E-3 Sentry</h2><p><b>מטוס שליטה, התרעה מוקדמת ובקרה מוטסת של חיל האוויר האמריקאי</b></p>
+const e3Content=`<h2>E-3 Sentry</h2><p><b>מטוס שליטה, התרעה מוקדמת ובקרה מוטסת של חיל האוויר האמריקאי</b></p><figure class="system-photo"><img src="/images/e-3-sentry.jpg" alt="E-3 Sentry בטיסה" loading="lazy"><figcaption>E-3 Sentry — צילום: U.S. Air Force / Senior Airman Johnny Diaz. Public Domain.</figcaption></figure>
 <div class="tabs"><span>סקירה</span><span>היסטוריה</span><span>טכנולוגיה</span><span>נתונים</span><span>שירות</span><span>מקורות</span></div>
 <h3>סקירה</h3><p>E-3 Sentry, המוכר גם כ־AWACS, הוא מטוס שליטה והתרעה מוקדמת המבוסס על Boeing 707. סימן ההיכר שלו הוא כיפת המכ״ם העגולה הגדולה שמעל גוף המטוס. הוא מעניק תמונת מצב אווירית ומסייע בניהול ובתיאום כוחות אוויריים.</p>
 <h3>היסטוריה</h3><p>ה־E-3 פותח בשנות ה־70 כדי לספק לחיל האוויר יכולת התרעה, מעקב ושליטה מוטסת לטווחים גדולים. המטוס הראשון נמסר לחיל האוויר האמריקאי במרץ 1977, והמערכת הפכה מאז למרכיב מרכזי במשימות פיקוד ובקרה אוויריות.</p>
