@@ -15,7 +15,7 @@ const abramsContent=`<h2>M1 Abrams</h2><p><b>טנק המערכה העיקרי ש
 <h3>כניסה לשירות</h3><p><b>1980</b> — משפחת M1 Abrams נכנסה לשירות בצבא ארצות הברית.</p>
 <h3>מקורות</h3><p><a href="https://cpeground.army.mil/Combat-Platforms/Project-Manager-Abrams/" target="_blank" rel="noopener">U.S. Army — Project Manager Abrams</a><br><a href="https://www.army.mil/article/194952/army_rolls_out_latest_version_of_iconic_abrams_main_battle_tank" target="_blank" rel="noopener">U.S. Army — M1A2 SEPv3</a><br><a href="https://www.army.mil/article/86839/" target="_blank" rel="noopener">U.S. Army — M1 Abrams service history</a></p>`;
 
-const bradleyContent=`<h2>M2 Bradley</h2><p><b>רכב לחימה משוריין לחי״ר של צבא ארצות הברית</b></p>
+const bradleyContent=`<h2>M2 Bradley</h2><p><b>רכב לחימה משוריין לחי״ר של צבא ארצות הברית</b></p><figure class="system-photo"><img src="/images/m2-bradley.jpg" alt="רכב לחימה M2A4 Bradley" loading="lazy"><figcaption>M2A4 Bradley — צילום: U.S. Army / Sgt. Dre Stout. Public Domain.</figcaption></figure>
 <div class="tabs"><span>סקירה</span><span>היסטוריה</span><span>טכנולוגיה</span><span>נתונים</span><span>גרסאות</span><span>שירות</span><span>מקורות</span></div>
 <h3>סקירה</h3><p>M2 Bradley הוא רכב לחימה זחלי ומשוריין שנועד להסיע חי״ר ממוכן תוך מתן הגנה, ניידות וכוח אש. נכון ל־2026, דגם M2A4 נמצא בשירות פעיל בצבא ארצות הברית, לצד גרסאות ותיקות יותר שעוברות בהדרגה החלפה ושדרוג.</p>
 <h3>היסטוריה</h3><p>משפחת Bradley נכנסה לשירות בצבא ארצות הברית בתחילת שנות ה־80 ונועדה לשלב הובלת חיילים עם יכולת לחימה מתוך מערך משוריין. במהלך השנים פותחו דגמי M2A2, M2A3 ו־M2A4. ה־Bradley שירת בין היתר במלחמת המפרץ ובמלחמת עיראק.</p>
